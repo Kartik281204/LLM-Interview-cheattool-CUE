@@ -188,6 +188,5 @@ Issues and PRs welcome. cue is intentionally small and readable — `main.js` (a
 
 ## Credits & license
 
-Built as an open-source study of how tools like **Cluely** and **Interview Coder** work. Modeled on the open-source clones `pickle-com/glass` and `sohzm/cheating-daddy`.
 
 **License: [GPL-3.0-or-later](LICENSE).**
